@@ -1,0 +1,21 @@
+[theme]
+# Brand-inspired theme for Terra General Insurance
+
+# Primary accent color (matches dark green in logo)
+primaryColor = "#2F4F4F"
+
+# Main background color (bright white for a clean look)
+backgroundColor = "#FFFFFF"
+
+# Sidebar and interactive background (soft beige-gray tone)
+secondaryBackgroundColor = "#F2F2ED"
+
+# Text color (dark green-gray for readability)
+textColor = "#2B3A36"
+
+# Optional: use a custom font (uncomment if needed)
+# font = "sans serif"
+
+[client]
+# Cleaner toolbar
+toolbarMode = "minimal"
